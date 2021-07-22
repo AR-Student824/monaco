@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
+https://dev.to/swyx/how-to-add-monaco-editor-to-a-next-js-app-ha3
+https://github.com/brijeshb42/monaco-themes/stargazers
 First, run the development server:
 
 ```bash
